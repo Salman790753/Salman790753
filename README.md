@@ -1,4 +1,4 @@
-![I am Salman790753](https://github.com/Salman790753/Salman790753/blob/main/code.png)
+![I am Salman790753]()
 
 <h1 align="center">Hi 👋, I'm Salman Farshi </h1>
 <h3 align="center">Programmer | Web Designer | Content Creator </h3>
